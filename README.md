@@ -75,7 +75,12 @@
   - NodeJS
 
 - 🛠 **Frontend**
-  !!!!!!!!!!!!수정필요 - Visual Studio Code - React.js 18.2.0 - react-bootstrap 2.8.0 - Material-UI - redux-toolkit 1.9.5 - redux 8.1.1
+   - React-Native Expo
+   - GoogleMap
+   - react-bootstrap 2.8.0 
+   - Material-UI 
+   - redux-toolkit 1.9.5 
+   - redux 8.1.1
 
 - 🛠 **CI/CD**
   - aws ec2
